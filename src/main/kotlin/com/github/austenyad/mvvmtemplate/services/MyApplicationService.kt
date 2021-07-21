@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.austenyad.mvvmtemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.austenyad.mvvmtemplate.MyBundle
 
 class MyApplicationService {
 
